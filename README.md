@@ -1,1 +1,3 @@
 # WeeklyMiniProject3
+## Lexicon IT-påbyggnadsutbildning
+This application stores products with a type, brand, model, purchase date, and price in USD in a list within an office object. The office has a location name and a currency code, which is stored in a list in the main class. The program lists these items in alphabetical order of offices, then in chronological order of purchase date. Products that reach 3 years of age in 6 months or less are colored yellow, red if in 3 months or less. The price is converted to the local currency of the office in which the product is listed using live exchange rates.
